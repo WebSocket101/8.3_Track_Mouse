@@ -1,5 +1,5 @@
 # Track Mouse Express.js
-A WebSocket-based tracking mouse web application for usability test implemented with Express.js and Socket.io
+A WebSocket-based tracking mouse web application for usability tests implemented with Express.js and Socket.io
 
 # Dependencies
 Node.js: http://nodejs.org/
